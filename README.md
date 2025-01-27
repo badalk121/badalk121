@@ -105,7 +105,7 @@ I'm a **Software Developer** who loves to **Code & Review Code** to improve self
 
 ---
 
-### 📅 Have this Quote to remember me:
+### 💬 Have this Quote to remember me:
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </p>
