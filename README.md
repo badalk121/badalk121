@@ -94,7 +94,7 @@ I'm a **Software Developer** who loves to **Code & Review Code** to improve self
 ### 🤝 Connect with me
 <p align="left">
   <!-- Replace the links with your social media URLs -->
-  <a href="[https://linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/badal-k-4a498a1a1/)" target="_blank">
+  <a href="[LinkedIn](https://www.linkedin.com/in/badal-k-4a498a1a1/)" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" alt="LinkedIn" height="30" width="30" />
   </a>
   <a href="mailto:badal.k.1908@gmail.com" target="_blank">
