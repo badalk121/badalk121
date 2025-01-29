@@ -1,10 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=150&color=gradient&text=Welcome!&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:020024,45:097949,100:58858e&text=👋%20Hi%20there,%20I'm%20Badal%20Kumar&section=footer&fontColor=4FFFB0&descAlignY=55&fontSize=45&descAlign=50&fontAlignY=65&descSize=25&animation=scaleIn&strokeWidth=1&stroke=004953"/>
 </p>
 
 <div align="center">
-  <h1>👋 Hi there, I'm Badal Kumar</h1>
-  <h3>A passionate Software Developer from Kota, India. </h3>
+  <h2>A passionate <mark>Software Developer</mark> from Kota, India. </h2>
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=badalk121&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 <!--     <img src="https://img.shields.io/github/followers/your-username?label=Followers&style=social" alt="GitHub Followers"> -->
@@ -15,7 +14,7 @@
 
 ### 🌟 Welcome to my GitHub Space!
 
-I'm a **Software Developer** who loves to **Code & Review Code** to improve self. A little about me, I am 2023 Computer Science & Engineering graduate with a minor in Management. During my academics, I have worked upon various programming languages such as Python, JavaScript, SQL, HTML, CSS, and various tech stacks like React.js, MERN, Next.js, Django, and Flask. I also got the wonderful opportunity to work on GCP during the Google Cloud Program, and AWS during a certified course on EDX. I consider myself a computer literate in most fields, and with the ability to adapt quickly, I can blend in most dynamic environments with ease.
+A little about me, I am 2023 Computer Science & Engineering graduate with a minor in Management. During my academics, I have worked upon various programming languages such as Python, JavaScript, SQL, HTML, CSS, and various tech stacks like React.js, MERN, Next.js, Django, and Flask. I also got the wonderful opportunity to work on GCP during the Google Cloud Program, and AWS during a certified course on EDX. I consider myself a computer literate in most fields, and with the ability to adapt quickly, I can blend in most dynamic environments with ease.
 
 ### 🔭 My projects that you should check out:
 - **[RideShare](https://github.com/badalk121/RideShare)**
@@ -94,7 +93,7 @@ I'm a **Software Developer** who loves to **Code & Review Code** to improve self
 ### 🤝 Connect with me
 <p align="left">
   <!-- Replace the links with your social media URLs -->
-  <a href="https://www.linkedin.com/in/badal-k-4a498a1a1/" target="blank">
+  <a href="https://www.linkedin.com/in/badal-k-4a498a1a1/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" alt="LinkedIn" height="30" width="30" />
   </a>
   <a href="mailto:badal.k.1908@gmail.com" target="_blank">
