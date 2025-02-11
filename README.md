@@ -110,7 +110,7 @@ A little about me, I am 2023 Computer Science & Engineering graduate with a mino
 </p>
 
 ### Monketype Stats:
-<a href="https://monkeytype.com/profile/MONKEYTYPE_USERNAME">
+<a href="https://monkeytype.com/profile/badalk121">
     <img src="https://raw.githubusercontent.com/badalk121/badalk121/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
 </a>
 
