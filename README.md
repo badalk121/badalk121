@@ -109,3 +109,8 @@ A little about me, I am 2023 Computer Science & Engineering graduate with a mino
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </p>
 
+### Monketype Stats:
+<a href="https://monkeytype.com/profile/MONKEYTYPE_USERNAME">
+    <img src="https://raw.githubusercontent.com/badalk121/badalk121/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
+</a>
+
