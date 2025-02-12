@@ -114,14 +114,14 @@ A little about me, I am 2023 Computer Science & Engineering graduate with a mino
 
 ### 🚀 Cloud Skill Boost Badges
 <!-- START_CLOUD_BADGES -->
-<a href="https://www.cloudskillsboost.google/public_profiles/6ec7a0ac-ef9f-4bfc-98ed-639f3b0878b6"><img src="https://cdn.qwiklabs.com/s2qZHGhb5WkVBHBsNTaV7AO%2FMMjWpvt%2FAoA96EBH6yU%3D" alt="Badge for Derive Insights from BigQuery Data" width="220"></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/6ec7a0ac-ef9f-4bfc-98ed-639f3b0878b6"><img src="https://cdn.qwiklabs.com/0bSya3%2F5VLUuF1UhSN5g8ARZbhzm24GCBuxZ%2FNeuSzw%3D" alt="Badge for DEPRECATED Explore Machine Learning Models with Explainable AI" width="220"></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/6ec7a0ac-ef9f-4bfc-98ed-639f3b0878b6"><img src="https://cdn.qwiklabs.com/6QsPX5Wdg0eHWFed3ZKTbX2c88yVFGgaWPlYt%2BJdp4Q%3D" alt="Badge for Build a Secure Google Cloud Network" width="220"></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/6ec7a0ac-ef9f-4bfc-98ed-639f3b0878b6"><img src="https://cdn.qwiklabs.com/pQKn%2BMWMs9ONN1oe7aDVjbornzSbFifony2eHUbl%2BA8%3D" alt="Badge for Set Up a Google Cloud Network" width="220"></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/6ec7a0ac-ef9f-4bfc-98ed-639f3b0878b6"><img src="https://cdn.qwiklabs.com/o83iSTKvb4KXWBiv1F2ViPaKpW4g9SGAZOeaEnqGbGo%3D" alt="Badge for Deploy Kubernetes Applications on Google Cloud" width="220"></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/6ec7a0ac-ef9f-4bfc-98ed-639f3b0878b6"><img src="https://cdn.qwiklabs.com/SOUHCWvev6HmfC5QztXJd%2BCkSK8%2B3WGWg%2BF%2Fww%2FfqXA%3D" alt="Badge for Set Up an App Dev Environment on Google Cloud" width="220"></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/6ec7a0ac-ef9f-4bfc-98ed-639f3b0878b6"><img src="https://cdn.qwiklabs.com/Z5mHEcZSfjDvSjtBRmzjgY1O5B9uT%2BJME8KqR%2FgmmyI%3D" alt="Badge for Develop your Google Cloud Network" width="220"></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/6ec7a0ac-ef9f-4bfc-98ed-639f3b0878b6"><img src="https://cdn.qwiklabs.com/TbOoOcpQdNxRawSvSE3K5cbakxBmki8F%2FgjwN6yKY98%3D" alt="Badge for Implement Load Balancing on Compute Engine" width="220"></a>
+<a href="https://www.cloudskillsboost.google/public_profiles/6ec7a0ac-ef9f-4bfc-98ed-639f3b0878b6"><img src="https://cdn.qwiklabs.com/s2qZHGhb5WkVBHBsNTaV7AO%2FMMjWpvt%2FAoA96EBH6yU%3D" alt="Badge for Derive Insights from BigQuery Data" width="210"></a>
+<a href="https://www.cloudskillsboost.google/public_profiles/6ec7a0ac-ef9f-4bfc-98ed-639f3b0878b6"><img src="https://cdn.qwiklabs.com/0bSya3%2F5VLUuF1UhSN5g8ARZbhzm24GCBuxZ%2FNeuSzw%3D" alt="Badge for DEPRECATED Explore Machine Learning Models with Explainable AI" width="210"></a>
+<a href="https://www.cloudskillsboost.google/public_profiles/6ec7a0ac-ef9f-4bfc-98ed-639f3b0878b6"><img src="https://cdn.qwiklabs.com/6QsPX5Wdg0eHWFed3ZKTbX2c88yVFGgaWPlYt%2BJdp4Q%3D" alt="Badge for Build a Secure Google Cloud Network" width="210"></a>
+<a href="https://www.cloudskillsboost.google/public_profiles/6ec7a0ac-ef9f-4bfc-98ed-639f3b0878b6"><img src="https://cdn.qwiklabs.com/pQKn%2BMWMs9ONN1oe7aDVjbornzSbFifony2eHUbl%2BA8%3D" alt="Badge for Set Up a Google Cloud Network" width="210"></a>
+<a href="https://www.cloudskillsboost.google/public_profiles/6ec7a0ac-ef9f-4bfc-98ed-639f3b0878b6"><img src="https://cdn.qwiklabs.com/o83iSTKvb4KXWBiv1F2ViPaKpW4g9SGAZOeaEnqGbGo%3D" alt="Badge for Deploy Kubernetes Applications on Google Cloud" width="210"></a>
+<a href="https://www.cloudskillsboost.google/public_profiles/6ec7a0ac-ef9f-4bfc-98ed-639f3b0878b6"><img src="https://cdn.qwiklabs.com/SOUHCWvev6HmfC5QztXJd%2BCkSK8%2B3WGWg%2BF%2Fww%2FfqXA%3D" alt="Badge for Set Up an App Dev Environment on Google Cloud" width="210"></a>
+<a href="https://www.cloudskillsboost.google/public_profiles/6ec7a0ac-ef9f-4bfc-98ed-639f3b0878b6"><img src="https://cdn.qwiklabs.com/Z5mHEcZSfjDvSjtBRmzjgY1O5B9uT%2BJME8KqR%2FgmmyI%3D" alt="Badge for Develop your Google Cloud Network" width="210"></a>
+<a href="https://www.cloudskillsboost.google/public_profiles/6ec7a0ac-ef9f-4bfc-98ed-639f3b0878b6"><img src="https://cdn.qwiklabs.com/TbOoOcpQdNxRawSvSE3K5cbakxBmki8F%2FgjwN6yKY98%3D" alt="Badge for Implement Load Balancing on Compute Engine" width="210"></a>
 
 <!-- END_CLOUD_BADGES -->
 
