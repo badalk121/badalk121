@@ -27,7 +27,8 @@ def update_readme():
 
     new_badge_section = "<!-- START_CLOUD_BADGES -->\n"
     for name, url in badges:
-        new_badge_section += f"[![{name}]({url})]({PROFILE_URL})\n"
+        # new_badge_section += f"[![{name}]({url})]({PROFILE_URL})\n"
+        new_badge_section += f'<a href="{PROFILE_URL}"><img src="{url}" alt="{name}" width="100"></a>\n'
     new_badge_section += "\n<!-- END_CLOUD_BADGES -->"
 
     with open("README.md", "r+") as file:
