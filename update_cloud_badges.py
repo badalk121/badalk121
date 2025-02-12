@@ -10,12 +10,12 @@ def fetch_badges():
         return []
 
     soup = BeautifulSoup(response.text, 'html.parser')
-    badges = soup.find_all("img", class_="some-badge-class")  # Update this selector based on CloudSkillBoost's HTML structure
+    badges = soup.find_all("img")  # Modify selector if needed
 
     badge_data = []
     for badge in badges:
         badge_url = badge["src"]
-        badge_name = badge["alt"]
+        badge_name = badge.get("alt", "Cloud Badge")
         badge_data.append((badge_name, badge_url))
 
     return badge_data
@@ -25,18 +25,23 @@ def update_readme():
     if not badges:
         return
 
-    content = "## 🚀 Cloud Skill Boost Badges\n"
+    new_badge_section = "<!-- START_CLOUD_BADGES -->\n"
     for name, url in badges:
-        content += f"[![{name}]({url})]({PROFILE_URL})\n"
+        new_badge_section += f"[![{name}]({url})]({PROFILE_URL})\n"
+    new_badge_section += "\n<!-- END_CLOUD_BADGES -->"
 
     with open("README.md", "r+") as file:
-        lines = file.readlines()
+        content = file.read()
+        start = content.find("<!-- START_CLOUD_BADGES -->")
+        end = content.find("<!-- END_CLOUD_BADGES -->") + len("<!-- END_CLOUD_BADGES -->")
+
+        if start != -1 and end != -1:
+            content = content[:start] + new_badge_section + content[end:]
+        else:
+            content += "\n" + new_badge_section
+
         file.seek(0)
         file.truncate()
-        for line in lines:
-            if "## 🚀 Cloud Skill Boost Badges" in line:
-                break
-            file.write(line)
         file.write(content)
 
 update_readme()
