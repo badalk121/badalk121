@@ -2,7 +2,7 @@ name: Update Cloud Skill Boost Badges
 
 on:
   schedule:
-    - cron: '0 */1 * * *'  # Runs daily at midnight UTC
+    - cron: '0 */24 * * *'  # Runs daily at midnight UTC
   workflow_dispatch:
 
 jobs:
@@ -16,6 +16,9 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
 
       - name: Run Python script
         run: python update_cloud_badges.py
