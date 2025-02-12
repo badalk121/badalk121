@@ -112,6 +112,11 @@ A little about me, I am 2023 Computer Science & Engineering graduate with a mino
 ### LeetCode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Badal_Kumar_SDE?theme=dark&font=Karma&ext=contest)
 
+### 🚀 Cloud Skill Boost Badges
+<!-- START_CLOUD_BADGES -->
+<!-- END_CLOUD_BADGES -->
+
+
 ### Monketype Stats:
 <a href="https://monkeytype.com/profile/badalk121">
     <img src="https://raw.githubusercontent.com/badalk121/badalk121/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
