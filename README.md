@@ -109,13 +109,13 @@ A little about me, I am 2023 Computer Science & Engineering graduate with a mino
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </p>
 
-### LeetCode Stats:
-## 🚀 LeetCode Stats
+### 🚀 LeetCode Stats:
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Badal_Kumar_SDE?theme=dark&font=ABeeZee&ext=activity" width="400px" alt="LeetCode Stats">
 </p>
 
 ### 🚀 Cloud Skill Boost Badges
+<p align="center">
 <!-- START_CLOUD_BADGES -->
 <a href="https://www.cloudskillsboost.google/public_profiles/6ec7a0ac-ef9f-4bfc-98ed-639f3b0878b6"><img src="https://cdn.qwiklabs.com/s2qZHGhb5WkVBHBsNTaV7AO%2FMMjWpvt%2FAoA96EBH6yU%3D" alt="Badge for Derive Insights from BigQuery Data" width="200"></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/6ec7a0ac-ef9f-4bfc-98ed-639f3b0878b6"><img src="https://cdn.qwiklabs.com/0bSya3%2F5VLUuF1UhSN5g8ARZbhzm24GCBuxZ%2FNeuSzw%3D" alt="Badge for DEPRECATED Explore Machine Learning Models with Explainable AI" width="200"></a>
@@ -125,12 +125,15 @@ A little about me, I am 2023 Computer Science & Engineering graduate with a mino
 <a href="https://www.cloudskillsboost.google/public_profiles/6ec7a0ac-ef9f-4bfc-98ed-639f3b0878b6"><img src="https://cdn.qwiklabs.com/SOUHCWvev6HmfC5QztXJd%2BCkSK8%2B3WGWg%2BF%2Fww%2FfqXA%3D" alt="Badge for Set Up an App Dev Environment on Google Cloud" width="200"></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/6ec7a0ac-ef9f-4bfc-98ed-639f3b0878b6"><img src="https://cdn.qwiklabs.com/Z5mHEcZSfjDvSjtBRmzjgY1O5B9uT%2BJME8KqR%2FgmmyI%3D" alt="Badge for Develop your Google Cloud Network" width="200"></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/6ec7a0ac-ef9f-4bfc-98ed-639f3b0878b6"><img src="https://cdn.qwiklabs.com/TbOoOcpQdNxRawSvSE3K5cbakxBmki8F%2FgjwN6yKY98%3D" alt="Badge for Implement Load Balancing on Compute Engine" width="200"></a>
+</p>
 
 <!-- END_CLOUD_BADGES -->
 
 
 ### Monketype Stats:
-<a href="https://monkeytype.com/profile/badalk121">
-    <img src="https://raw.githubusercontent.com/badalk121/badalk121/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
+<p align="center">
+  <a href="https://monkeytype.com/profile/badalk121">
+    <img src="https://raw.githubusercontent.com/badalk121/badalk121/monkeytype-readme/monkeytype-readme-lb.svg" style="max-width: 400; height: auto;" alt="My Monkeytype profile" />
 </a>
+</p>
 
