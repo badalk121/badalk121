@@ -22,7 +22,6 @@ A little about me, I am 2023 Computer Science & Engineering graduate with a mino
 - **[FRAMS](https://github.com/badalk121/FRAMS)**
 
 ### 🌱 I'm currently learning:
-- **Java Springboot**
 - **DevOps**
 - **Artificial Intelligence**
 - **Prompt Engineering**
@@ -76,7 +75,7 @@ A little about me, I am 2023 Computer Science & Engineering graduate with a mino
   <!-- Add more icons as needed -->
 </p>
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=badalk121&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
@@ -85,36 +84,12 @@ A little about me, I am 2023 Computer Science & Engineering graduate with a mino
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badalk121&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Trophies:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=badalk121&theme=algolia&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
-### 🤝 Connect with me
-<p align="left">
-  <!-- Replace the links with your social media URLs -->
-  <a href="https://www.linkedin.com/in/badal-k-4a498a1a1/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" alt="LinkedIn" height="30" width="30" />
-  </a>
-  <a href="mailto:badal.k.1908@gmail.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/email.svg" alt="Email" height="30" width="30" />
-  </a>
-  <!-- Add more social icons as needed -->
-</p>
-
----
-
-### 💬 Have this Quote to remember me:
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</p>
-
-### 🚀 LeetCode Stats:
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Badal_Kumar_SDE?theme=dark&font=ABeeZee&ext=heatmap" width="400px" alt="LeetCode Stats">
-</p>
-
-### 🚀 Cloud Skill Boost Badges
+### 🚀 Cloud Skill Boost Badges:
 <p align="center">
 <!-- START_CLOUD_BADGES -->
 <a href="https://www.cloudskillsboost.google/public_profiles/6ec7a0ac-ef9f-4bfc-98ed-639f3b0878b6"><img src="https://cdn.qwiklabs.com/s2qZHGhb5WkVBHBsNTaV7AO%2FMMjWpvt%2FAoA96EBH6yU%3D" alt="Badge for Derive Insights from BigQuery Data" width="200"></a>
@@ -126,14 +101,35 @@ A little about me, I am 2023 Computer Science & Engineering graduate with a mino
 <a href="https://www.cloudskillsboost.google/public_profiles/6ec7a0ac-ef9f-4bfc-98ed-639f3b0878b6"><img src="https://cdn.qwiklabs.com/Z5mHEcZSfjDvSjtBRmzjgY1O5B9uT%2BJME8KqR%2FgmmyI%3D" alt="Badge for Develop your Google Cloud Network" width="200"></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/6ec7a0ac-ef9f-4bfc-98ed-639f3b0878b6"><img src="https://cdn.qwiklabs.com/TbOoOcpQdNxRawSvSE3K5cbakxBmki8F%2FgjwN6yKY98%3D" alt="Badge for Implement Load Balancing on Compute Engine" width="200"></a>
 </p>
-
 <!-- END_CLOUD_BADGES -->
 
+### 📊 LeetCode Stats:
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Badal_Kumar_SDE?theme=dark&font=ABeeZee&ext=heatmap" width="400px" alt="LeetCode Stats">
+</p>
 
-### Monketype Stats:
+### 📊 Monketype Stats:
 <p align="center">
   <a href="https://monkeytype.com/profile/badalk121">
     <img src="https://raw.githubusercontent.com/badalk121/badalk121/monkeytype-readme/monkeytype-readme-lb-pb.svg" style="max-width: 400; height: auto;" alt="My Monkeytype profile" />
 </a>
 </p>
 
+### 🤝 Connect with me:
+<p align="left">
+  <!-- Replace the links with your social media URLs -->
+  <a href="https://www.linkedin.com/in/badal-k-4a498a1a1/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" alt="LinkedIn" height="30" width="30" />
+  </a>
+  <a href="mailto:badal.k.1908@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/email.svg" alt="Email" height="30" width="30" />
+  </a>
+  <!-- Add more social icons as needed -->
+</p>
+
+### 💬 Have this Quote to remember me:
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
+
+---
