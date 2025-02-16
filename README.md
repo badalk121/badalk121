@@ -105,6 +105,7 @@ A little about me, I am 2023 Computer Science & Engineering graduate with a mino
 
 ### 📊 LeetCode Stats:
 <p align="center">
+  <a href="https://leetcode.com/u/Badal_Kumar_SDE">
   <img src="https://leetcard.jacoblin.cool/Badal_Kumar_SDE?theme=dark&font=ABeeZee&ext=heatmap" width="400px" alt="LeetCode Stats">
 </p>
 
