@@ -116,6 +116,14 @@ A little about me, I am 2023 Computer Science & Engineering graduate with a mino
 </a>
 </p>
 
+## 📊 WakaTime Stats
+<p align="center">
+  <a href="https://wakatime.com/@Badal_Kumar_SDE"> 
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Badal_Kumar_SDE" />
+</a>
+</p>
+
+
 ### 🤝 Connect with me:
 <p align="left">
   <!-- Replace the links with your social media URLs -->
